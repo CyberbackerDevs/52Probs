@@ -1,4 +1,4 @@
-# rise
+# 52 Problems
 
 ## Build Setup
 
