@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/inspire-index-backu", {data:[{}],fetch:{},mutations:void 0});

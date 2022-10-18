@@ -1,0 +1,16 @@
+[
+  {
+    "name": "inspire-index-backu",
+    "path": "/inspire-index-backu",
+    "component": "/Users/Celym/Documents/cb/52probs/pages/inspire-index-backu.vue",
+    "chunkName": "pages/inspire-index-backu",
+    "_name": "_dfe10ed2"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/Celym/Documents/cb/52probs/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_7289b569"
+  }
+]
